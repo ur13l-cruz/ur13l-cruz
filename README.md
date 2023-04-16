@@ -1,5 +1,8 @@
 ### Hi there 👋
 - <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+### Some technologies I use
+- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <!--
 **urr13l/urr13l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
