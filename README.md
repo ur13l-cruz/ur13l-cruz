@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+![image]({BadgeURLHere})
 <!--
 **urr13l/urr13l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
