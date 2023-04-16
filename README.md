@@ -1,4 +1,4 @@
-# Hi there, I'm a programmer in the making 👋
+# Hi there 👋
 
 ## Some technologies I use
 - <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
